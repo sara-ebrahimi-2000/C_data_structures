@@ -1,0 +1,35 @@
+# Examples
+
+This folder contains C programming exercises and examples completed during my university studies.
+
+## Purpose
+
+The examples in this folder were created for learning, practice, and exam preparation. They cover different topics in C programming and data structures.
+
+## Topics Covered
+
+* Basic C Programming
+* Functions
+* Arrays and Strings
+* Pointers
+* Dynamic Memory Allocation
+* Structures
+* Linked Lists
+* Recursion
+* Data Structures
+* Algorithm Exercises
+
+## Notes
+
+* These files are educational exercises and may not always contain the best or most efficient solutions.
+* Some source codes may be incomplete or contain mistakes, as they were written while learning the concepts.
+* The repository serves as a record of my progress and coursework.
+
+## Disclaimer
+
+The code in this folder is provided for educational purposes only. Correctness is not guaranteed, and some solutions may require improvements or corrections.
+
+## Author
+
+Sara Ebrahimi
+Computer Science Student
